@@ -23,6 +23,7 @@ the swedish torrent king
 **Ubuntu/Debian:**
 ```sh
 $ sudo apt-get install -y nodejs
+$ sudo apt-get install npm
 $ sudo apt-get install -y git-core
 ```
 
